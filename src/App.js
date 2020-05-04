@@ -26,7 +26,7 @@ function App() {
       {/* <MouseContainer /> */}
       {/* <IntervalClassCounter />
       <IntervalHooksCounter /> */}
-      <FetchingDataWithuseEffect />
+      {/* <FetchingDataWithuseEffect /> */}
     </div>
   );
 }
